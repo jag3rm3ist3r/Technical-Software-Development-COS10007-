@@ -1,0 +1,45 @@
+Week 7 Question 1
+
+Using the array "data" as the example, explain the logic of the following
+sorting techniques.
+
+array = {10, 2, 9, 12, 6};
+
+
+a. Bubble sort
+10	2	9	12	6
+2	10	9	12	6
+2	9	10	12	6
+2	9	10	6	12
+2	9	6	10	12
+2	6	9	10	12
+
+b. Selection sort
+10	2	9	12	6
+2	10	9	12	6
+2	6	9	12	10
+2	6	9	12	10
+2	6	9	10	12
+
+c. Insertion sort
+10	2	9	12	6
+2	10	9	12	6
+2	9	10	12	6
+2	6	9	10	12
+
+d. Merge sort
+10	2	9	12	6
+(10	2	9)	(12	6)
+(10	2)	(9)	(12	6)
+(2	10)	(9)	(6	12)
+(2	9	10)	(6	12)
+2	6	9	10	12
+
+e. Quick sort
+10	2	9	12	6
+(10	2	9)	(12	6)
+(10	2	9)	(12	6)
+(2	9	10)	(6	12)
+2	6	9	10	12
+
+

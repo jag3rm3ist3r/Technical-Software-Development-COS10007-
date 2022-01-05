@@ -1,0 +1,3 @@
+The purpose of a default argument is to make sure that an overloaded argument
+isn't ambiguous.
+

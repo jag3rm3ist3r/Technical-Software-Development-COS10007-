@@ -1,0 +1,37 @@
+Questions about COS10007 A2 Q1:
+
+
+
+
+Do I need to track the tail or can I just derive it?
+NO
+COMPLETED
+
+
+Can an order contain more than one game?
+"game/s" Singular/Plural
+"Customers place orders online to buy game/s."
+"game" Singular
+"The gaming company will search for the specific game upon customer's request
+in order of first come first served basis."
+ONE GAME AT A TIME
+COMPLETED
+
+
+Why is there no menu option for Qn 1 part 3?
+It says:
+"The gaming company should be able to retreive the data of the last sold games."
+"games" plural
+The closest menu option is:
+"Display info of last order"
+Which only looks at the last one, not all of the previous orders.
+ONLY THE TOP OF THE STACK
+COMPLETED
+
+
+Can I store the last sold games by placing the orders into a different linked
+list instead of storing the actual game data on it's own in a list?
+DUMP IN ANOTHER LIST
+COMPLETED
+
+

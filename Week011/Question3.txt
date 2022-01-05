@@ -1,0 +1,9 @@
+a.
+The function needs to use the template class A instead of an int in it's
+declaration.
+
+b.
+The template needs to either have the word "class" or "typename" inside the
+<> brackets before the A.
+
+

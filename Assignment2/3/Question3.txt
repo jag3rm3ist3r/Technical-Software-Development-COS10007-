@@ -1,0 +1,24 @@
+The linear search checks each element in the array one at a time until it gets a
+match and then returns.
+It is extremely easy to implement since it only requires a loop and an if
+statement.
+
+The binary search checks the midpoint then goes in the direction of the match
+assuming it will be there.
+This assumes that the array is sorted already.
+It repeats this process for smaller and smaller chunks till the chunk size is 1.
+Once the chunk size is 1 if the match isn't found it returns an error.
+If found, it returns the location of the match.
+This is far more efficient as it halves the search area each time instead of
+searching the entire array one element at a time.
+
+The binary search is much faster but it requires that the array is already
+sorted, which means that it may not be faster in some cases since it may be
+difficult or impossible to sort.
+
+When the search term is impossible to sort, such as when you're searching by
+name then the linear search is your best option.
+
+When you're searching an ordered list of items then the binary search will cut
+the search time down in all but the rarest of cases.
+

@@ -1,0 +1,11 @@
+Week 9 Question 2
+
+All of these weeks could have been split into multiple files:
+W5Q2
+W7Q2
+W8Q2
+All of these programs had a ton of functions that could exist anywhere and
+weren't specific to the task at hand, they all accept arguments instead of
+refering to global variables directly.
+
+

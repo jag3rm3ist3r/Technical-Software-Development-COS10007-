@@ -1,0 +1,29 @@
+Question1.txt
+
+a.	Class
+	A class is a specification for an object that may be used to create as many
+	objects as the programmer desires.
+	It works similarly to a struct but it can have member functions.
+b.	Object
+	An object is the result of using a class definition it is an instance of
+	that class just as a struct has a definition but you can create many structs
+	from it's definition.
+c.	Member function
+	Member functions are functions that may be called from an object just like
+	how a struct has many member data types.
+d.	Data member
+	Data members work just like a struct, but for objects; they are usually
+	obfuscated behind a function.
+e.	Access specifiers
+	Access specifiers determine whether an object's
+	data members/member functions can be accessed externally.
+f.	Class definition
+	A class definition is like a function definition and a struct definition
+	jammed together. It's a definition just like a struct but it can have
+	functions and some members can be obfuscated.
+g.	Encapsuations
+	Encapsulations a method of obfuscating protected members in a function that interacts with them.
+h.	Inheritance
+	Inheritance is the ability for an object to have parent objects that it inherits properties from.
+
+

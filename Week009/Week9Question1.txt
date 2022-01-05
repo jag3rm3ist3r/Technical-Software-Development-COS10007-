@@ -1,0 +1,8 @@
+Week 9 Question 1
+
+The advantage of breaking down your source files into multiple chunks
+(separate .c and .h files) is that you can recompile one chunk at a time and
+reuse the chunks in other programs later.
+You are also able to use ifdef/ifndef conditions to include different versions
+of the file for different operating systems.
+

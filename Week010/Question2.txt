@@ -1,0 +1,11 @@
+// Question2.txt
+
+
+
+
+a.	The return value must not be void if you wish to return something.
+	There should be a namespace specifier on cout.
+	The newline should be: std::endl
+
+b.	There should be an endline between the cout and the return value.
+	There should be a namespace specifier on cout.
