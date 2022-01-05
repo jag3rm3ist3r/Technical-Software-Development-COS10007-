@@ -1,0 +1,529 @@
+Successfully loaded Game file.
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+1
++-----------------------------+
+|          Game NAME          |
++-----------------------------+
+| Final Fantasy               |
+| Flight Simulator            |
+| Forza Horizon               |
+| Gears of War                |
+| Guitar Hero                 |
+| Halo                        |
+| Metal Gear Solid            |
+| Minecrat                    |
+| Skyrim                      |
+| Sonic Mania                 |
+| Tekken                      |
+| World of Warcraft           |
++-----------------------------+
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+2
+Please enter Game name to insert: Pow Patrol
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+1
++-----------------------------+
+|          Game NAME          |
++-----------------------------+
+| Final Fantasy               |
+| Flight Simulator            |
+| Forza Horizon               |
+| Gears of War                |
+| Guitar Hero                 |
+| Halo                        |
+| Metal Gear Solid            |
+| Minecrat                    |
+| Pow Patrol                  |
+| Skyrim                      |
+| Sonic Mania                 |
+| Tekken                      |
+| World of Warcraft           |
++-----------------------------+
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+3
+There are no orders.
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+4
+There are no orders.
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+5
+Please enter customer name: Alex
+Please enter name of Game to order: Doom
+Sorry, Game Doom is currently out of stock. Order not placed.
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+5
+Please enter customer name: Mary
+Please enter name of Game to order: Sonic Mania
+Game order for Sonic Mania was successfully placed.
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+8
+No orders have been processed.
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+3
++----------------------------------------------+
+|                  NEXT ORDER                  |
++---------------+---------------+--------------+
+|      ID       |     NAME      |     Game     |
++---------------+---------------+--------------+
+| 1             | Mary          | Sonic Mania  |
++---------------+---------------+--------------+
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+4
++----------------------------------------------+
+|                  ALL ORDERS                  |
++---------------+---------------+--------------+
+|      ID       |     NAME      |     Game     |
++---------------+---------------+--------------+
+| 1             | Mary          | Sonic Mania  |
++---------------+---------------+--------------+
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+5
+Please enter customer name: Jon
+Please enter name of Game to order: Halo
+Game order for Halo was successfully placed.
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+3
++----------------------------------------------+
+|                  NEXT ORDER                  |
++---------------+---------------+--------------+
+|      ID       |     NAME      |     Game     |
++---------------+---------------+--------------+
+| 1             | Mary          | Sonic Mania  |
++---------------+---------------+--------------+
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+4
++----------------------------------------------+
+|                  ALL ORDERS                  |
++---------------+---------------+--------------+
+|      ID       |     NAME      |     Game     |
++---------------+---------------+--------------+
+| 1             | Mary          | Sonic Mania  |
++---------------+---------------+--------------+
+| 2             | Jon           | Halo         |
++---------------+---------------+--------------+
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+1
++-----------------------------+
+|          Game NAME          |
++-----------------------------+
+| Final Fantasy               |
+| Flight Simulator            |
+| Forza Horizon               |
+| Gears of War                |
+| Guitar Hero                 |
+| Halo                        |
+| Metal Gear Solid            |
+| Minecrat                    |
+| Pow Patrol                  |
+| Skyrim                      |
+| Sonic Mania                 |
+| Tekken                      |
+| World of Warcraft           |
++-----------------------------+
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+6
+Game order for Mary was successfully processed.
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+1
++-----------------------------+
+|          Game NAME          |
++-----------------------------+
+| Final Fantasy               |
+| Flight Simulator            |
+| Forza Horizon               |
+| Gears of War                |
+| Guitar Hero                 |
+| Halo                        |
+| Metal Gear Solid            |
+| Minecrat                    |
+| Pow Patrol                  |
+| Skyrim                      |
+| Tekken                      |
+| World of Warcraft           |
++-----------------------------+
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+3
++----------------------------------------------+
+|                  NEXT ORDER                  |
++---------------+---------------+--------------+
+|      ID       |     NAME      |     Game     |
++---------------+---------------+--------------+
+| 2             | Jon           | Halo         |
++---------------+---------------+--------------+
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+4
++----------------------------------------------+
+|                  ALL ORDERS                  |
++---------------+---------------+--------------+
+|      ID       |     NAME      |     Game     |
++---------------+---------------+--------------+
+| 2             | Jon           | Halo         |
++---------------+---------------+--------------+
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+8
++----------------------------------------------+
+|                   LAST ORDER                 |
++---------------+---------------+--------------+
+|      ID       |     NAME      |     Game     |
++---------------+---------------+--------------+
+| 1             | Mary          | Sonic Mania  |
++---------------+---------------+--------------+
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+6
+Game order for Jon was successfully processed.
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+8
++----------------------------------------------+
+|                   LAST ORDER                 |
++---------------+---------------+--------------+
+|      ID       |     NAME      |     Game     |
++---------------+---------------+--------------+
+| 2             | Jon           | Halo         |
++---------------+---------------+--------------+
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+1
++-----------------------------+
+|          Game NAME          |
++-----------------------------+
+| Final Fantasy               |
+| Flight Simulator            |
+| Forza Horizon               |
+| Gears of War                |
+| Guitar Hero                 |
+| Metal Gear Solid            |
+| Minecrat                    |
+| Pow Patrol                  |
+| Skyrim                      |
+| Tekken                      |
+| World of Warcraft           |
++-----------------------------+
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+7
+Game order for Jon was successfully Cancelled.
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+1
++-----------------------------+
+|          Game NAME          |
++-----------------------------+
+| Final Fantasy               |
+| Flight Simulator            |
+| Forza Horizon               |
+| Gears of War                |
+| Guitar Hero                 |
+| Halo                        |
+| Metal Gear Solid            |
+| Minecrat                    |
+| Pow Patrol                  |
+| Skyrim                      |
+| Tekken                      |
+| World of Warcraft           |
++-----------------------------+
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+3
+There are no orders.
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+4
+There are no orders.
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+9
+Successfully written Game file.
+The following Games remain in the list
++-----------------------------+
+|          Game NAME          |
++-----------------------------+
+| Final Fantasy               |
+| Flight Simulator            |
+| Forza Horizon               |
+| Gears of War                |
+| Guitar Hero                 |
+| Halo                        |
+| Metal Gear Solid            |
+| Minecrat                    |
+| Pow Patrol                  |
+| Skyrim                      |
+| Tekken                      |
+| World of Warcraft           |
++-----------------------------+
+The file was updated successfully
+What would you like to do?
+(1)  - Display the current stock (linked-list)
+(2)  - Add a Game to stock (linked-list)
+(3)  - Display next order info
+(4)  - Display all orders
+(5)  - Add order to queue
+(6)  - Process the next order
+(7)  - Cancel last order
+(8)  - Display info of last order
+(9)  - Update Game file
+(10) - Quit program
+10
