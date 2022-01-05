@@ -1,0 +1,27 @@
+Question 1
+
+Linear search checks each item in a list one by one to see if it matches,
+it doesn't require a sorted list.
+for(int i = 0; i < array_len; i++) {
+	if(array[i] == searchterm) {
+		// Do something.
+	}
+}
+
+Binary search checks the midpoint of a sorted list and jumps back or forward by
+half the remainder to find the search term.
+bool search(int s) {
+	divide(int left, int right) {
+		if(array[midpoint] == searchterm) {return true;}
+		if(left == right) {return false;}
+		int midpoint = (left + right) / 2;
+		if(array[midpoint] >= searchterm) {
+			return divide(midpoint, right);
+		} else {
+			return divide(left, midpoint);
+		}
+	}
+	return divide(0, array_len - 1);
+}
+// Returns bool result.
+search(searchterm);

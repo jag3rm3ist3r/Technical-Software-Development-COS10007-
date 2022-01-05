@@ -1,0 +1,43 @@
+a.
+A data structure is a way of organizing data so it can be accessed or stored
+effectively such as an array or binary tree.
+
+
+b.
+Linear data structures are linked to each other in a chain in one or two
+directions, whereas non-linear data structures will have all kinds of
+relationships between elements in the data structure.
+
+
+c.
+Stacks:
+
+push
+b -> c -> d -> e -> NULL
+
+a    b -> c -> d -> e -> NULL
+
+a -> b -> c -> d -> e -> NULL
+
+pop
+a -> b -> c -> d -> e -> NULL
+
+a    b -> c -> d -> e -> NULL
+
+b -> c -> d -> e -> NULL
+
+
+d.
+Stacks are a type of linked list that is only interacted with from the head
+of the list.
+Linked lists are lists of elements that are organized by their relationships
+with each other and linked by pointers.
+
+
+e.
+A stack can be used to store operations that have higher priority the later
+they are created.
+A stack can be used to store data without having to store much information about
+the location of the data, as the head of the stack is all that is needed to
+address it.
+
